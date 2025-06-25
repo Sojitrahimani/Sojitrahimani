@@ -16,7 +16,7 @@
 ## 🌐 Let's Connect!
 
 - LinkedIn: https://www.linkedin.com/in/himani-sojitra-14606b277 
--Email: sojitrahimani174@gmail.com  
+- Email: sojitrahimani174@gmail.com  
 
 
 

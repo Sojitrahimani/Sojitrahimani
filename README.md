@@ -5,6 +5,8 @@ Hi there 👋 I'm Sojitra Himani Vikasbhai
 
 💻 Technical Skills
 Programming Languages: C, C++, Python, DBMS, JAVA
+web
+
 Web Development: HTML, CSS
 Database Systems: SQL, Oracle 10g
 Operating System: Windows 11

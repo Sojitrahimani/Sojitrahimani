@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋 I'm Sojitra Himani Vikasbhai
 
-<!--
-**Sojitrahimani/Sojitrahimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing *Computer Engineering*  
+💻 Passionate about coding, problem-solving, and building tech solutions
 
-Here are some ideas to get you started:
+💻 Technical Skills
+Programming Languages: C, C++, Python, DBMS, JAVA
+Web Development: HTML, CSS
+Database Systems: SQL, Oracle 10g
+Operating System: Windows 11
+Others: Artificial Inteligence/machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Let's Connect!
+🔗 LinkedIn: https://www.linkedin.com/in/himani-sojitra-14606b277
+💻 GitHub: https://github.com/Sojitrahimani
+📧 Email: sojitrahimani174@gmail.com 
